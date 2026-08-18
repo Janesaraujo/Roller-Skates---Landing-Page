@@ -1,5 +1,8 @@
-# Snitap — Landing Page 🛼
+<h1 align="center">Snitap — Landing Page 🛼</h1>
 
+<p align="center">
+  An animated landing page for a fictional roller-skate brand, built with HTML and modern CSS.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -11,6 +14,28 @@
 <p align="center">
   <a href="https://snitap-landing-page.vercel.app">
     <img src="https://img.shields.io/badge/live%20demo-vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo on Vercel" />
+  </a>
+</p>
+
+<p align="center">
+  💛 Like the project? Give it a star and share it!
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Janesaraujo/Roller-Skates---Landing-Page">
+    <img src="https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+  </a>
+  <a href="https://x.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Janesaraujo/Roller-Skates---Landing-Page%20%23HTML%20%23CSS">
+    <img src="https://img.shields.io/badge/share-000000?logo=x&logoColor=white" alt="Share on X" />
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Janesaraujo/Roller-Skates---Landing-Page">
+    <img src="https://img.shields.io/badge/share-1877F2?logo=facebook&logoColor=white" alt="Share on Facebook" />
+  </a>
+  <a href="https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Janesaraujo/Roller-Skates---Landing-Page%20%23HTML%20%23CSS">
+    <img src="https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white" alt="Share on Reddit" />
+  </a>
+  <a href="https://t.me/share/url?url=https://github.com/Janesaraujo/Roller-Skates---Landing-Page&text=Check%20out%20this%20project%20on%20GitHub%20%23HTML%20%23CSS">
+    <img src="https://img.shields.io/badge/share-0088CC?logo=telegram&logoColor=white" alt="Share on Telegram" />
   </a>
 </p>
 
@@ -104,4 +129,3 @@ Developed by **Janes Araujo**
 - GitHub: [@Janesaraujo](https://github.com/Janesaraujo)
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-# Roller-Skates---Landing-Page
